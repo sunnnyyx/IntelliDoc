@@ -1,4 +1,4 @@
-# 📄 Adobe Hackathon 2025 – Team Bareozgarians ;)
+# 📄 Adobe Hackathon 2025 
 
 This repo contains solutions for both challenges in Adobe Hackathon 2025:
 
